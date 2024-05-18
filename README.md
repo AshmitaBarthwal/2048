@@ -1,7 +1,5 @@
 # 2048 Game in Pygame
 
-![2048 Game Screenshot](screenshot.png)
-
 A Python implementation of the classic 2048 game using Pygame. Slide numbered tiles on a grid to combine them and create a tile with the number 2048.
 
 ## Table of Contents
