@@ -10,7 +10,6 @@ A Python implementation of the classic 2048 game using Pygame. Slide numbered ti
 - [How to Play](#how-to-play)
 - [Controls](#controls)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -88,6 +87,6 @@ This project is a simple and enjoyable version of the 2048 game. It uses Pygame 
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas to improve the game, find any bugs, or want to add new features, feel free to open an issue or create a pull request.
+###Contributions are welcome! If you have any ideas to improve the game, find any bugs, or want to add new features, feel free to open an issue or create a pull request.
 
 
